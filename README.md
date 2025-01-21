@@ -1,2 +1,2 @@
-# html.
-my html course
+# html and css
+my html and css course
